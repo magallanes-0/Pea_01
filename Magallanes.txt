@@ -1,0 +1,39 @@
+Las preguntas teóricas ponerlas en un archivo respuestas.txt y ubicarlo 
+dentro del proyecto (pregunta 5), subirlo a github.com.
+
+Incluir en el mismo proyecto un archivo script.sql los comandos para crear 
+la tabla e insertar los datos.
+
+--RPTA en archivo base de datos Pea_01 
+
+1. Diagramar una clase llamada producto, con sus atributos y operaciones.
+
+1--RPTA en archivo png   
+
+2. ¿Qué es un jar y para qué sirve?
+
+   es un tipo de archivo ".jar"  donde puede incluir  varios archivos como texto,imagenes,archivos de clase java para distribuilo
+   podemos decir que la extencion .jar contiene versiones comprimidas  de extensiones .class de java.
+
+3. ¿Qué es el patrón MVC?
+
+   es un patron de arquitectura se software (vista-modelo-controlador) . asi obtenemos una 
+   programacion separada en logica aplicacion,logica vista,aplicacion.
+
+4. Declarar un array y asignarle valores.
+4.1 ¿Cómo se obtiene el primer valor del array?
+4.2 ¿y el último?
+4.3 ¿Con qué estructura de control se itera/recorre un array? de un ejemplo.
+
+4--respuestas en el archivo base de datos Magallanes
+
+5. En la empresa Apple Inc. necesitan un software para gestionar sus dispositivos, es 
+necesario hacer un crud de la tabla dispositivo con lo campos, nombre, precio, tipo. 
+Se tiene que mostrar la lista de dispositivos y una opción para registrar, actualizar 
+y borrar dispositivos.
+
+Usar Procedures para las operaciones CRUD.
+
+
+
+
